@@ -44,3 +44,41 @@ To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
 ## 📸 Dashboard Visualization
 
 ![Dashboard Screenshot](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/NSMQ%20analysis.png)
+
+
+## 📸 Dax Measures
+
+![Dax Screenshot](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123847.png)
+![Dax Screenshot](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123826.png)
+![Dax Screenshot](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123517.png)
+![Dax Screenshot](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123927.png)
+![Dax Screenshot](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123906.png)
+
+
+## 🧠 Key Insights
+- **School Dominance** Certain schools consistently rack up high points, showing scoring power beyond just wins.
+- **Regional Strength** Greater Accra and Central dominate wins, but other regions consistently push schools into Quarters and Semis.
+- **Gender Representation** Boys’ schools dominate participation, but Girls’ schools are making strong runs into Semis and Finals.
+- **Competitiveness** Some contests are nail-bitingly close (margin under 5 points), showing how tight the competition can get.
+
+
+## 📌 Conclusion & Recommendations
+
+### ✅ Conclusion
+The NSMQ dashboard highlights patterns in dominance, participation, and competitiveness. It shows that while some regions and schools maintain strong dominance, there are rising challengers and stories of resilience, particularly from Girls’ schools and regions outside the big two.
+
+This project demonstrates how data visualization can reveal clarity beyond raw numbers, making it easier to understand performance, identify gaps, and appreciate the dynamics of one of Ghana’s biggest academic events.
+
+### 💡 Recommendations
+- **Strengthen Regional Balance**  
+  Support underrepresented regions with more resources and teacher training so they can compete at the higher stages.
+
+- **Encourage Girls’ Schools Participation**  
+  Invest in mentorship and STEM programs to boost girls’ schools’ performance since data shows fewer but strong contenders.
+
+- **Reward Consistency Beyond Wins**  
+  Recognize schools that consistently reach Quarter and Semi-finals, not only those that win, to broaden motivation.
+  
+- **Analyze Close Contests**  
+  Close margins highlight competitiveness. Organizers could study these to improve question fairness and contest balance.
+
