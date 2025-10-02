@@ -82,3 +82,19 @@ This project demonstrates how data visualization can reveal clarity beyond raw n
 - **Analyze Close Contests**  
   Close margins highlight competitiveness. Organizers could study these to improve question fairness and contest balance.
 
+
+## 🚀 Explore the Dashboard
+👉 **[Click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjNhMTZhMGUtNWVmMi00N2Y5LTg0MDUtNzI1YTZmMzkxNjc3IiwidCI6IjEwNGQ4MDQ4LWZkMGMtNDNkNS1hNjMwLWZjNjI5ZTVkYWI1OSJ9)**
+
+
+## 💡 Skills & Tools Demonstrated
+
+- **Data Cleaning & Transformation** - Power Query, DAX.
+- **Power BI Dashboarding** - bar charts, map visuals, KPI cards.
+- **Data Storytelling** – Power BI Dashboarding.
+- **Visualization Design Hacks** – rounded bars with error bars, custom color palettes.
+
+
+## 📬 Connect with Me
+
+**[LinkedIn](https://www.linkedin.com/in/edmund-boateng-yaw-4073b620b/)** | **[@ed_mund.csv](https://x.com/ed_mund_csv)**
